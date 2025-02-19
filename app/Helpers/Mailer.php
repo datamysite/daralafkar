@@ -11,7 +11,7 @@ class Mailer
         Mail::send($template, $data, function($message) use ($receiver_email, $receiver_name, $subject) {
              $message->to($receiver_email, $receiver_name)->subject
                 ($subject);
-             $message->from('contact@datamysite.com','DataMySite Marketing');
+             $message->from('sender@daralafkarmarketing.ae','Dar Alafkar Marketing');
           });
 
         return true;

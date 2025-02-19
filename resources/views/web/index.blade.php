@@ -11,16 +11,16 @@
 	      <div class="container">
 	        <div class="row">
 	          <div class="col-xl-1 hide-mobile">
-	          	<p class="hero-title">DataMySite</p>
+	          	<p class="hero-title">DarAlafkar</p>
 	          </div>
 	          <div class="col-xl-4">
 	          	<div class="hero-img">
-		          	<img src="{{URL::to('/public')}}/assets/img/background/banner2.png" alt="DataMySite - Dubai UAE">
+		          	<img src="{{URL::to('/public')}}/assets/img/background/banner2.png" alt="Dar Alafkar - Dubai UAE">
 		          </div>
 	          </div>
 	          <div class="col-xl-5 hero-title-sec">
 	          	<div class="hero-spacing"></div>
-	          	<h6 class="text-theme text-bold">D M S</h6>
+	          	<h6 class="text-theme text-bold">Dar Alafkar</h6>
 	            <h1>The New Level For Advertising</h1>
 	            <blockquote>
 	              <p>People do not buy goods and services. <br>They buy relations, stories, and magic.</p>

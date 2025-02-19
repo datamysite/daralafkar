@@ -33,7 +33,7 @@
                 <br>
                 <div class="post-container">
                     <h4>Transform Your Brand Presence with Billboards Advertising Dubai</h4>
-                    <p>Your brand message should stand tall above Dubai's bustling streets and highways. Through strategic billboard advertising Dubai, you can broadcast your message to millions of potential customers daily. We at DataMySite can turn your brand presence to a newer height with our customised billboard advertising solutions.</p>
+                    <p>Your brand message should stand tall above Dubai's bustling streets and highways. Through strategic billboard advertising Dubai, you can broadcast your message to millions of potential customers daily. We at Dar Alafkar can turn your brand presence to a newer height with our customised billboard advertising solutions.</p>
                     <h4>Billboard Advertising Solutions – Beyond Old-School Marketing</h4>
                     <p>Digital billboards UAE brings your marketing vision to life. Your advertisements shine bright on premium displays – drawing attention from business leaders and consumers across the emirate.<br>
                     Static and digital displays work in perfect sync to build your brand recognition. These massive marketing platforms turn heads and hold attention, creating lasting impressions that stick with viewers long after they pass by. With our advertising solutions, we focus on these key essentials</p>
@@ -56,10 +56,10 @@
                     <h4>Your Path to Marketing Success</h4>
                     <p>Billboard advertising Dubai puts your brand message where it matters most. From busy highways to premium retail locations, your advertisements command attention and drive results.<br>
                     Let our team show you how digital billboards can transform your marketing impact. Book your consultation today and discover the perfect locations for your campaign.</p>
-                    <h4>Start Your Success Story with us at DataMySite</h4>
+                    <h4>Start Your Success Story with us at Dar Alafkar</h4>
                     <p>Launch your billboards advertising Dubai campaign today. Consult our team to explore premium locations and custom solutions that match your marketing goals. <br><br>
                     Contact us at <strong>+971 525 287 259</strong>, or <br>
-                    You may mail us at <a href="mailto:contact@datamysite.com"><strong>contact@datamysite.com</strong></a>. <br>
+                    You may mail us at <a href="mailto:contact@Dar Alafkar.com"><strong>contact@Dar Alafkar.com</strong></a>. <br>
                     We are located at Al Bayan Building, Dubai Investment Park, Dubai – UAE. So, you can plan for a visit to seek a consultation in a personalised manner. </p>
 
                     <br><br>

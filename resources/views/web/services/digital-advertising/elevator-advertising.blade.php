@@ -33,7 +33,7 @@
                 <br>
                 <div class="post-container">
                     
-                    <p>The elevator advertising sector presents viewers with a distinct marketing opportunity in the intimate elevator environment. With Dubai's skyscrapers and high-rise buildings, Elevator advertising Dubai is an innovative way to reach people during their short journey between floors. At datamysite, we offer elevator advertising solutions catered to your business needs. </p>
+                    <p>The elevator advertising sector presents viewers with a distinct marketing opportunity in the intimate elevator environment. With Dubai's skyscrapers and high-rise buildings, Elevator advertising Dubai is an innovative way to reach people during their short journey between floors. At Dar Alafkar, we offer elevator advertising solutions catered to your business needs. </p>
                     <h4>How Elevator Advertising Dubai Works</h4>
                     <p>Elevator advertising Dubai involves placing ads inside or outside elevators in commercial and residential buildings. The target is to deliver advertising messages to people who cannot escape the focused area of limited space. <br>
                     The message becomes more impactful because of its environment having minimal distractions so people can remember it better. The format of advertising varies between static images and digital displays and interactive experiences based on the advertising targets.</p>
@@ -69,8 +69,8 @@
                     </ul>
 
                     <p>Video ads play through high-definition display mechanisms and motion graphics to preserve a deep impact on people watching.</p>
-                    <h4>Why Choose Datamysite for Elevator Advertising Dubai</h4>
-                    <p>At datamysite, we specialise in elevator advertising campaigns UAE that drive engagement and brand awareness. Here's why businesses trust us:</p>
+                    <h4>Why Choose Dar Alafkar for Elevator Advertising Dubai</h4>
+                    <p>At Dar Alafkar, we specialise in elevator advertising campaigns UAE that drive engagement and brand awareness. Here's why businesses trust us:</p>
 
                     <ul>
                         <li><strong>Innovative Approach</strong>: The company merges technology with creative concepts to generate successful elevator advertisement strategies.</li>
@@ -80,7 +80,7 @@
                     </ul>
                     <br>
                     <p>
-                        Does your brand require an advertising visibility boost? Partner with datamysite for impactful Elevator advertising Dubai campaigns that drive engagement and results. Reach us immediately at +971 525 287 259 to start your project.
+                        Does your brand require an advertising visibility boost? Partner with Dar Alafkar for impactful Elevator advertising Dubai campaigns that drive engagement and results. Reach us immediately at +971 525 287 259 to start your project.
 
                     </p>
 
@@ -158,7 +158,7 @@
                             </div>
                             <div id="faqCollapse-5" class="collapse" aria-labelledby="faqHeading-5" data-parent="#accordion">
                                 <div class="card-body">
-                                    <p>The cost of Elevator advertising Dubai varies depending on factors such as ad format, location, and campaign duration. You can contact datamysite to receive a personalised price estimate.</p>
+                                    <p>The cost of Elevator advertising Dubai varies depending on factors such as ad format, location, and campaign duration. You can contact Dar Alafkar to receive a personalised price estimate.</p>
                                 </div>
                             </div>
                         </div>

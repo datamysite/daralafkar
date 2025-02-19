@@ -32,7 +32,7 @@
                 <br>
                 <div class="post-container">
                     <p>
-                        At datamysite, we offer businesses the chance to work with Bollywood stars and sports personalities through its Celebrity Marketing Dubai service. Celebrities use their powerful status to enhance brand visibility through multiple channels, which in turn generates credibility and stronger emotional bonds with their supporters. We develop strategies to emphasise your brand through every product launch event and promotional campaign.
+                        At Dar Alafkar, we offer businesses the chance to work with Bollywood stars and sports personalities through its Celebrity Marketing Dubai service. Celebrities use their powerful status to enhance brand visibility through multiple channels, which in turn generates credibility and stronger emotional bonds with their supporters. We develop strategies to emphasise your brand through every product launch event and promotional campaign.
 
                     </p>
                     
@@ -64,7 +64,7 @@
 
                     <h4>Why Choose Bollywood Celebrity Endorsements Dubai</h4>
                     <p>The branding technique involving Bollywood celebrities finds great use in Dubai to appeal most strongly to its large South Asian population. Their authority reaches beyond entertainment to affect what people wear as well as how they live and what they purchase.<br>
-                    At datamysite, we facilitate Bollywood Celebrity Endorsements Dubai through: </p>
+                    At Dar Alafkar, we facilitate Bollywood Celebrity Endorsements Dubai through: </p>
 
                     <ul>
                         <li><strong>Brand Endorsements</strong>:  Partner with Bollywood superstars for impactful TV ads and digital campaigns.</li>
@@ -84,7 +84,7 @@
                         <li><strong>Sports Campaigns</strong>:  requires athletes to advertise health products and sports-based products along with fitness-oriented products.</li>
                     </ul>
 
-                    <p>At datamysite, we deliver more than celebrity-brand matchmaking services. datamysite delivers complete marketing solutions that enable smooth implementation and deliver maximum results.</p>
+                    <p>At Dar Alafkar, we deliver more than celebrity-brand matchmaking services. Dar Alafkar delivers complete marketing solutions that enable smooth implementation and deliver maximum results.</p>
 
 
 
@@ -101,7 +101,7 @@
                             </div>
                             <div id="faqCollapse-1" class="collapse show" aria-labelledby="faqHeading-1" data-parent="#accordion">
                                 <div class="card-body">
-                                    <p>At datamysite, our Celebrity Marketing Dubai services help brands and clients select appropriate talent by considering their industry sector audience demographics and marketing targets. We work as the mediator between clients to handle all discussions regarding negotiations for partnership agreements.</p>
+                                    <p>At Dar Alafkar, our Celebrity Marketing Dubai services help brands and clients select appropriate talent by considering their industry sector audience demographics and marketing targets. We work as the mediator between clients to handle all discussions regarding negotiations for partnership agreements.</p>
                                 </div>
                             </div>
                         </div>

@@ -37,7 +37,7 @@
                     </p>
                     <h4>What We Offer in Taxi Advertising Dubai</h4>
                     <p>
-                        Our taxi advertising solutions at datamysite accommodate different types of business needs. Maximum brand visibility is possible through our solutions, which function effectively regardless of targeting particular districts or achieving whole city market dominance.
+                        Our taxi advertising solutions at Dar Alafkar accommodate different types of business needs. Maximum brand visibility is possible through our solutions, which function effectively regardless of targeting particular districts or achieving whole city market dominance.
                     </p>
                     <ul>
                         <li>
@@ -72,8 +72,8 @@
                     <h4>Additional Campaigns: Moving Billboard Campaigns GCC</h4>
                     <p>In addition to traditional taxi ads, we offer Moving billboard campaigns GCC, which allows you to expand your advertising strategy beyond Dubai. Through these campaigns, your brand reaches progressively minded audiences from the Gulf Cooperation Council's member nations, and city residents and road commuters get to witness your message during their journeys.</p>
                     <h4>Conclusion</h4>
-                    <p>Taxi Advertising Dubai is an innovative and effective way to showcase your brand to thousands of potential customers daily. datamysite stands as the top choice for helping you master the city's taxi advertising sector through our custom-built campaigns combined with our deep market knowledge.<br>
-                    Your brand will enhance visibility through mobile billboard advertising initiatives that you can launch today. Call datamysite today for an advertising consultation if you are seeking ways to boost your marketing approach and desired client acquisition. Your brand deserves to shine among the busy streets of Dubai.<br><br>
+                    <p>Taxi Advertising Dubai is an innovative and effective way to showcase your brand to thousands of potential customers daily. Dar Alafkar stands as the top choice for helping you master the city's taxi advertising sector through our custom-built campaigns combined with our deep market knowledge.<br>
+                    Your brand will enhance visibility through mobile billboard advertising initiatives that you can launch today. Call Dar Alafkar today for an advertising consultation if you are seeking ways to boost your marketing approach and desired client acquisition. Your brand deserves to shine among the busy streets of Dubai.<br><br>
                     For additional details, simply reach out to us at (+971) 42 957 001.</p>
 
 

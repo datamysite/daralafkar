@@ -33,7 +33,7 @@
                 <br>
                 <div class="post-container">
                     <h4>Improve Your Brand's Visibility with Our DOOH Advertising Solutions</h4>
-                    <p>Your brand needs visibility that makes an impact. Your message needs to grab attention in Dubai's busy spaces. DOOH Advertising Dubai puts your brand on brilliant digital screens. These displays catch the eyes across the UAE, making your content impossible to miss. Consult us for this type of advertising solution at DataMySite.</p>
+                    <p>Your brand needs visibility that makes an impact. Your message needs to grab attention in Dubai's busy spaces. DOOH Advertising Dubai puts your brand on brilliant digital screens. These displays catch the eyes across the UAE, making your content impossible to miss. Consult us for this type of advertising solution at Dar Alafkar.</p>
                     <h4>Why Choose Digital Out-of-Home Ads UAE?</h4>
                     <p>Traditional advertising lacks the flexibility modern brands need. DOOH Advertising Dubai changes your content in real-time to match market conditions. Your campaigns adapt to time, weather, and events - keeping your message fresh and relevant.</p>
                     <h4>Premium Locations across Dubai</h4>

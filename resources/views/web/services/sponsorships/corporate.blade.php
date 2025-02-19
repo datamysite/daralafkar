@@ -34,9 +34,9 @@
                 <div class="post-container">
                     
                     <p>Entrepreneurial companies within Dubai collaborate with events and organisations through Corporate Sponsorships Dubai to increase their brand exposure while achieving market recognition. Organisations that assist events provide money in addition to providing tangible help for marketing benefits that include public exposure and both public address chances and attendee listing data.<br>
-                    Sponsorship deals enable companies to fortify their market position along with creating enduring business partnerships. At Datamysite, we offer such services and much more.</p>
+                    Sponsorship deals enable companies to fortify their market position along with creating enduring business partnerships. At Dar Alafkar, we offer such services and much more.</p>
                     <h4>Why Choose Corporate Sponsorships UAE?</h4>
-                    <p>Any company that selects corporate sponsorships UAE gains access to a specific business audience within this growing market sector. The position of Dubai as a worldwide trade centre and entertainment complex with technological prowess enables sponsors to improve brand credibility as they gain substantial investment returns. Datamysite excels at finding perfect sponsorship opportunities that match specific business targets for their clients.</p>
+                    <p>Any company that selects corporate sponsorships UAE gains access to a specific business audience within this growing market sector. The position of Dubai as a worldwide trade centre and entertainment complex with technological prowess enables sponsors to improve brand credibility as they gain substantial investment returns. Dar Alafkar excels at finding perfect sponsorship opportunities that match specific business targets for their clients.</p>
 
                     <h4>Types of Corporate Sponsorships Dubai</h4>
                     <p>Here are the common types of business sponsorships UAE and Dubai you can avail of. </p>
@@ -47,7 +47,7 @@
                     </ul>
 
                     <h4>Our Brand Sponsorships Dubai Services</h4>
-                    <p>Through our brand sponsorships, Dubai Solutions Datamysite assists businesses in achieving the maximum return on their sponsorship funds. Our services include:</p>
+                    <p>Through our brand sponsorships, Dubai Solutions Dar Alafkar assists businesses in achieving the maximum return on their sponsorship funds. Our services include:</p>
                     <ul>
                         <li><Strong>Conference Sponsorships</Strong>: The act of sponsoring major conferences delivers industry acknowledgement to brands.</li>
                         <li><Strong>Event Sponsorships</Strong>:  Align your brand with high-profile events.</li>
@@ -73,8 +73,8 @@
                         <li>Collaborate with the event organisers to create personalised sponsorship possibilities.</li>
                     </ul>
 
-                    <h4>Why Choose Datamysite for Corporate Partnership UAE?</h4>
-                    <p>Datamysite launched its operations in Dubai in 2021 to become the leading marketing agency that delivers digital and outdoor (OOH) media strategies to its clients. Using knowledge-based data, we help our clients obtain the best corporate partnership UAE opportunities through focused market insights. Our expertise includes:</p>
+                    <h4>Why Choose Dar Alafkar for Corporate Partnership UAE?</h4>
+                    <p>Dar Alafkar launched its operations in Dubai in 2021 to become the leading marketing agency that delivers digital and outdoor (OOH) media strategies to its clients. Using knowledge-based data, we help our clients obtain the best corporate partnership UAE opportunities through focused market insights. Our expertise includes:</p>
 
                     <ul>
                         <li><strong>Digital Media Buying</strong>: Optimising ad placements for maximum impact.</li>
@@ -98,7 +98,7 @@
                             <div class="card-header" id="faqHeading-1">
                                 <div class="mb-0">
                                     <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-1" data-aria-expanded="true" data-aria-controls="faqCollapse-1">
-                                        <span class="badge">1</span>How does datamysite find the right sponsorships for my brand?
+                                        <span class="badge">1</span>How does Dar Alafkar find the right sponsorships for my brand?
                                     </h5>
                                 </div>
                             </div>

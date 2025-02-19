@@ -32,10 +32,10 @@
                 </div>
                 <br>
                 <div class="post-container">
-                    <h4>Uplift Your Brand Presence with Hotel Digital Screen Advertising at DataMySite</h4>
-                    <p>Capturing the attention of viewers is critical in a land like Dubai. But now, you can ensure visibility among high-value individuals by placing your brand's message on digital screens in lobbies or elevators (and also conference areas). We at DataMySite bring your brand to life through premium hotel digital screens advertising in Dubai's most prestigious properties. Your message will reach corporate leaders and decision-makers in spaces where influence meets opportunity.</p>
+                    <h4>Uplift Your Brand Presence with Hotel Digital Screen Advertising at Dar Alafkar</h4>
+                    <p>Capturing the attention of viewers is critical in a land like Dubai. But now, you can ensure visibility among high-value individuals by placing your brand's message on digital screens in lobbies or elevators (and also conference areas). We at Dar Alafkar bring your brand to life through premium hotel digital screens advertising in Dubai's most prestigious properties. Your message will reach corporate leaders and decision-makers in spaces where influence meets opportunity.</p>
                     <h4>Why Choose Hotel Advertising Screens UAE?</h4>
-                    <p>We at DataMySite place your advertisements where they make the strongest impact. Our hotel screen advertising network spans exclusive locations - from grand hotel lobbies to executive lounges and premium conference facilities. We ensure your message receives prime visibility in spaces where business decisions take shape with digital signage in hotels GCC. Your brand connects with high-net-worth individuals and business leaders who appreciate refined marketing approaches.</p>
+                    <p>We at Dar Alafkar place your advertisements where they make the strongest impact. Our hotel screen advertising network spans exclusive locations - from grand hotel lobbies to executive lounges and premium conference facilities. We ensure your message receives prime visibility in spaces where business decisions take shape with digital signage in hotels GCC. Your brand connects with high-net-worth individuals and business leaders who appreciate refined marketing approaches.</p>
                     <h4>Creating Measurable Impact –</h4>
                     <p>Our hotel digital screens advertising solutions deliver concrete results. We track engagement metrics that matter to your business growth. Through our advanced analytics, you'll see how your content performs across different hotel locations and time periods.</p>
                     <h4>Premium Placement in Dubai's Finest Hotels –</h4>
@@ -60,8 +60,8 @@
                     <h4>Return on Investment –</h4>
                     <p>The numbers speak clearly. Hotel advertising generates impressive engagement rates. Your advertisements reach guests during their most receptive moments - whether they are attending conferences or conducting business meetings.<br>
                     Our hotel advertising offers exposure in environments where your target audience spends quality time. It builds brand recognition among key decision-makers.</p>
-                    <h4>Consult Us Today at DataMySite</h4>
-                    <p>We at DataMySite know the power of analytics to optimise your hotel advertising screens UAE campaigns. Our team monitors performance metrics and adjusts content strategy to maximise impact. You'll receive regular reports showing clear ROI measurements.<br>
+                    <h4>Consult Us Today at Dar Alafkar</h4>
+                    <p>We at Dar Alafkar know the power of analytics to optimise your hotel advertising screens UAE campaigns. Our team monitors performance metrics and adjusts content strategy to maximise impact. You'll receive regular reports showing clear ROI measurements.<br>
                     Our hotel advertising combines state-of-the-art display technology with strategic placement. We select prime positions in Dubai's leading hotels to ensure maximum visibility for your brand.<br>
                     Your success drives our approach. We handle every aspect of your hotel advertising campaign - from content creation to placement optimisation. Our experienced team ensures seamless execution across all hotel properties. Contact us today to discover how our hotel digital screens advertising solutions can transform your brand presence in Dubai's premium spaces.</p>
 
@@ -94,7 +94,7 @@
                             </div>
                             <div id="faqCollapse-2" class="collapse" aria-labelledby="faqHeading-2" data-parent="#accordion">
                                 <div class="card-body">
-                                    <p>You can run seasonal campaigns in hotel environments. We can deliver your complete message effectively through our advertising solutions at DataMySite.</p>
+                                    <p>You can run seasonal campaigns in hotel environments. We can deliver your complete message effectively through our advertising solutions at Dar Alafkar.</p>
                                 </div>
                             </div>
                         </div>

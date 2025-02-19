@@ -44,7 +44,7 @@
           <div class="col-lg-2 col-6 footer-links">
             <h4>Quick Links</h4>
             <ul>
-              <li><a href="{{route('blogs')}}">Blogs</a></li>
+              <!-- <li><a href="{{route('blogs')}}">Blogs</a></li> -->
               <li><a href="{{route('services')}}">Services</a></li>
               <li><a href="{{route('about')}}">About Us</a></li>
               <li><a href="{{route('contact')}}">Contact Us</a></li>
@@ -55,18 +55,18 @@
             <h4>Support</h4>
             <ul>
               <li><a href="{{route('faq')}}">FAQ</a></li>
-              <li><a href="{{route('caseStudies')}}">Case Studies</a></li>
-              <li><a href="{{route('privacy')}}">Privacy Policy</a></li>
+              <!-- <li><a href="{{route('caseStudies')}}">Case Studies</a></li>
+ -->              <li><a href="{{route('privacy')}}">Privacy Policy</a></li>
               <li><a href="{{route('terms')}}">Terms & Conditions</a></li>
             </ul>
           </div>
 
           <div class="col-lg-4 col-md-12 footer-about">
             <a href="{{URL::to('/')}}" class="logo d-flex align-items-center" aria-label="Home">
-              <img src="{{URL::to('/public/assets/img/mini-logo-white.png')}}" alt="Footer Logo">
+              <img src="{{URL::to('/public/dar-logo-white.png')}}" alt="Footer Logo">
             </a>
-            <p>Smarter Marketing, Better Outcomes.<br><br>Boost your brand’s visibility, enhance campaign performance</p>
-            <div class="social-links d-flex mt-4">
+            <p>Smarter Marketing, Better Outcomes.<br>Boost your brand’s visibility, enhance campaign performance</p>
+            <div class="social-links d-flex mt-2">
               <a href="https://www.linkedin.com/company/datamysite/" aria-label="Linkedin"><i class="bi bi-linkedin"></i></a>
               <a href="https://www.instagram.com/datamysite/" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
             </div>
@@ -93,7 +93,7 @@
     </div>
 
     <div class="container copyright text-center">
-      <p><span>Copyright ©</span> <strong class="px-1 sitename text-theme">DataMySite</strong> {{date('Y')}}. <span>All Rights Reserved. Powered By <a href="https://daralafkarmarketingllc.com/" target="_blank"><strong>Dar Alafkar Marketing LLC.</strong></a></span></p>
+      <p><span>Copyright ©</span> <a href="https://daralafkarmarketingllc.com/" target="_blank"><strong>Dar Alafkar Marketing LLC.</strong></a> {{date('Y')}}. <span>All Rights Reserved.</p>
     </div>
 
   </footer>

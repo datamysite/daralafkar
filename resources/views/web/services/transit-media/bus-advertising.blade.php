@@ -37,7 +37,7 @@
                     </p>
                     <h4>Our Bus Advertising Dubai Services</h4>
                     <p>
-                        At datamysite, we provide comprehensive solutions to maximise your advertising impact. Our services include:
+                        At Dar Alafkar, we provide comprehensive solutions to maximise your advertising impact. Our services include:
                     </p>
                     <ul>
                         <li>
@@ -76,9 +76,9 @@
                     <h4>Bus Stop Advertising: Engage Audiences at Key Locations</h4>
                     <p>While Bus Advertising Dubai offers mobility, Bus Stop Advertising Dubai provides stationary yet high-impact exposure. Bus stops function as perfect platforms for making memorable brand impressions towards a settled audience who waits for their public transportation. Through creative advertising approaches, we make your promotions visible in heavily trafficked locations.</p>
                     <h4>Understanding the Costs of Bus Advertising Dubai</h4>
-                    <p>Many businesses wonder about the investment required for Bus Advertising Dubai. Costs for bus advertisements depend on where you want ads displayed and to what length of time you want them exposed alongside what specific buses you select. Our pricing structures adapt to accommodate diverse funding needs at datamysite. Our solutions match your goals through affordable offerings that cover brief-time marketing efforts and enduring branding requirements.</p>
-                    <h4>Why Choose datamysite for Bus Advertising Dubai?</h4>
-                    <p>Founded in 2021 and based in Dubai, datamysite is a leading marketing agency specialising in innovative digital and out-of-home (OOH) advertising solutions. We have successfully executed Bus Advertising Dubai campaigns for various businesses, ensuring measurable results. We use our OOH media buying network to place your ads at premium placements that increase both audience engagement and brand visibility.<br>
+                    <p>Many businesses wonder about the investment required for Bus Advertising Dubai. Costs for bus advertisements depend on where you want ads displayed and to what length of time you want them exposed alongside what specific buses you select. Our pricing structures adapt to accommodate diverse funding needs at Dar Alafkar. Our solutions match your goals through affordable offerings that cover brief-time marketing efforts and enduring branding requirements.</p>
+                    <h4>Why Choose Dar Alafkar for Bus Advertising Dubai?</h4>
+                    <p>Founded in 2021 and based in Dubai, Dar Alafkar is a leading marketing agency specialising in innovative digital and out-of-home (OOH) advertising solutions. We have successfully executed Bus Advertising Dubai campaigns for various businesses, ensuring measurable results. We use our OOH media buying network to place your ads at premium placements that increase both audience engagement and brand visibility.<br>
                     Creative bus ad designs UAE are essential for grabbing attention and making a statement. Through a specialised team of designers, our company creates meaningfully designed visuals that align with your brand identification. We design your bus adverts to include strong visual designs alongside interactive components that lead to memorable impacts.</p>
                     <p>Here's how we work:</p>
                     
@@ -98,7 +98,7 @@
                     </ul>
 
                     <p>
-                        Ready to elevate your brand with Bus Advertising Dubai? Contact the team at (+971) 42 957 001 at datamysite to start developing an influential marketing initiative that meets your business needs.
+                        Ready to elevate your brand with Bus Advertising Dubai? Contact the team at (+971) 42 957 001 at Dar Alafkar to start developing an influential marketing initiative that meets your business needs.
                     </p>
 
                     <br><br>

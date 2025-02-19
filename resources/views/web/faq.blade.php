@@ -18,13 +18,13 @@
                         <div class="card-header" id="faqHeading-1">
                             <div class="mb-0">
                                 <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-1" data-aria-expanded="true" data-aria-controls="faqCollapse-1">
-                                    <span class="badge">1</span>What services does DataMySite offer in Dubai, UAE?
+                                    <span class="badge">1</span>What services does Dar Alafkar offer in Dubai, UAE?
                                 </h5>
                             </div>
                         </div>
                         <div id="faqCollapse-1" class="collapse show" aria-labelledby="faqHeading-1" data-parent="#accordion">
                             <div class="card-body">
-                                <p>DataMySite provides a wide range of marketing and advertising services, including digital advertising, outdoor advertising, public relations, influencer marketing, event marketing, transit media, creative advertising, and lead generation tailored to businesses in Dubai and across the UAE.</p>
+                                <p>Dar Alafkar provides a wide range of marketing and advertising services, including digital advertising, outdoor advertising, public relations, influencer marketing, event marketing, transit media, creative advertising, and lead generation tailored to businesses in Dubai and across the UAE.</p>
                             </div>
                         </div>
                     </div>
@@ -32,7 +32,7 @@
                         <div class="card-header" id="faqHeading-2">
                             <div class="mb-0">
                                 <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-2" data-aria-expanded="false" data-aria-controls="faqCollapse-2">
-                                    <span class="badge">2</span>How can DataMySite help my business grow in Dubai?
+                                    <span class="badge">2</span>How can Dar Alafkar help my business grow in Dubai?
                                 </h5>
                             </div>
                         </div>
@@ -46,7 +46,7 @@
                         <div class="card-header" id="faqHeading-3">
                             <div class="mb-0">
                                 <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-3" data-aria-expanded="false" data-aria-controls="faqCollapse-3">
-                                    <span class="badge">3</span>Does DataMySite work with small businesses in Dubai?
+                                    <span class="badge">3</span>Does Dar Alafkar work with small businesses in Dubai?
                                 </h5>
                             </div>
                         </div>
@@ -60,7 +60,7 @@
                         <div class="card-header" id="faqHeading-4">
                             <div class="mb-0">
                                 <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-4" data-aria-expanded="false" data-aria-controls="faqCollapse-4">
-                                    <span class="badge">4</span>What industries does DataMySite serve in the UAE?
+                                    <span class="badge">4</span>What industries does Dar Alafkar serve in the UAE?
                                 </h5>
                             </div>
                         </div>
@@ -76,7 +76,7 @@
                         <div class="card-header" id="faqHeading-5">
                             <div class="mb-0">
                                 <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-5" data-aria-expanded="false" data-aria-controls="faqCollapse-5">
-                                    <span class="badge">5</span>Can DataMySite manage PR campaigns for businesses in Dubai?
+                                    <span class="badge">5</span>Can Dar Alafkar manage PR campaigns for businesses in Dubai?
                                 </h5>
                             </div>
                         </div>
@@ -90,7 +90,7 @@
                         <div class="card-header" id="faqHeading-6">
                             <div class="mb-0">
                                 <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-6" data-aria-expanded="false" data-aria-controls="faqCollapse-6">
-                                    <span class="badge">6</span>What is the process for launching an influencer marketing campaign with DataMySite?
+                                    <span class="badge">6</span>What is the process for launching an influencer marketing campaign with Dar Alafkar?
                                 </h5>
                             </div>
                         </div>
@@ -104,7 +104,7 @@
                         <div class="card-header" id="faqHeading-7">
                             <div class="mb-0">
                                 <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-7" data-aria-expanded="false" data-aria-controls="faqCollapse-7">
-                                    <span class="badge">7</span>Does DataMySite provide event marketing services in Dubai?
+                                    <span class="badge">7</span>Does Dar Alafkar provide event marketing services in Dubai?
                                 </h5>
                             </div>
                         </div>
@@ -118,7 +118,7 @@
                         <div class="card-header" id="faqHeading-8">
                             <div class="mb-0">
                                 <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-8" data-aria-expanded="false" data-aria-controls="faqCollapse-8">
-                                    <span class="badge">8</span>How does DataMySite ensure ads are effective for the Dubai market?
+                                    <span class="badge">8</span>How does Dar Alafkar ensure ads are effective for the Dubai market?
                                 </h5>
                             </div>
                         </div>
@@ -132,7 +132,7 @@
                         <div class="card-header" id="faqHeading-9">
                             <div class="mb-0">
                                 <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-9" data-aria-expanded="false" data-aria-controls="faqCollapse-9">
-                                    <span class="badge">9</span>Does DataMySite offer creative advertising solutions?
+                                    <span class="badge">9</span>Does Dar Alafkar offer creative advertising solutions?
                                 </h5>
                             </div>
                         </div>
@@ -146,7 +146,7 @@
                         <div class="card-header" id="faqHeading-10">
                             <div class="mb-0">
                                 <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-10" data-aria-expanded="false" data-aria-controls="faqCollapse-10">
-                                    <span class="badge">10</span>Can DataMySite handle transit and airline media advertising in the UAE?
+                                    <span class="badge">10</span>Can Dar Alafkar handle transit and airline media advertising in the UAE?
                                 </h5>
                             </div>
                         </div>
@@ -160,7 +160,7 @@
                         <div class="card-header" id="faqHeading-11">
                             <div class="mb-0">
                                 <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-11" data-aria-expanded="false" data-aria-controls="faqCollapse-11">
-                                    <span class="badge">11</span>What makes DataMySite different from other marketing agencies in Dubai?
+                                    <span class="badge">11</span>What makes Dar Alafkar different from other marketing agencies in Dubai?
                                 </h5>
                             </div>
                         </div>
@@ -174,7 +174,7 @@
                         <div class="card-header" id="faqHeading-12">
                             <div class="mb-0">
                                 <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-12" data-aria-expanded="false" data-aria-controls="faqCollapse-12">
-                                    <span class="badge">12</span>How do I get started with DataMySite?
+                                    <span class="badge">12</span>How do I get started with Dar Alafkar?
                                 </h5>
                             </div>
                         </div>
@@ -188,7 +188,7 @@
                         <div class="card-header" id="faqHeading-13">
                             <div class="mb-0">
                                 <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-13" data-aria-expanded="false" data-aria-controls="faqCollapse-13">
-                                    <span class="badge">13</span>Does DataMySite offer multilingual marketing campaigns?
+                                    <span class="badge">13</span>Does Dar Alafkar offer multilingual marketing campaigns?
                                 </h5>
                             </div>
                         </div>
@@ -202,7 +202,7 @@
                         <div class="card-header" id="faqHeading-14">
                             <div class="mb-0">
                                 <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-14" data-aria-expanded="false" data-aria-controls="faqCollapse-14">
-                                    <span class="badge">14</span>What is the typical ROI for campaigns managed by DataMySite?
+                                    <span class="badge">14</span>What is the typical ROI for campaigns managed by Dar Alafkar?
                                 </h5>
                             </div>
                         </div>
@@ -216,7 +216,7 @@
                         <div class="card-header" id="faqHeading-15">
                             <div class="mb-0">
                                 <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-15" data-aria-expanded="false" data-aria-controls="faqCollapse-15">
-                                    <span class="badge">15</span>Does DataMySite offer packages for multiple services?
+                                    <span class="badge">15</span>Does Dar Alafkar offer packages for multiple services?
                                 </h5>
                             </div>
                         </div>
@@ -230,7 +230,7 @@
 
                     <br><br>
                     <h4>Contact Us</h4>
-                    <p style="padding: 10px 0px;">If you have more questions or need tailored marketing solutions for your business in Dubai, reach out to <a href="{{route('contact')}}">DataMySite</a> today!</p>
+                    <p style="padding: 10px 0px;">If you have more questions or need tailored marketing solutions for your business in Dubai, reach out to <a href="{{route('contact')}}">Dar Alafkar</a> today!</p>
                     <br><br>
 	          </div><!-- End Card Item -->
 

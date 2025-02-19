@@ -32,14 +32,14 @@
                 </div>
                 <br>
                 <div class="post-container">
-                    <h4>Turn Your Brand's Digital Presence with OTT Advertising at DataMySite</h4>
+                    <h4>Turn Your Brand's Digital Presence with OTT Advertising at Dar Alafkar</h4>
                     <p>
-                       Your viewers have moved to streaming platforms. Meet them there with DataMySite's strategic OTT Advertising solutions. We've seen the shift in Dubai's media consumption habits. Your potential customers now spend more time streaming their favourite shows and content. Your brand reaches viewers through their preferred streaming platforms with our OTT Advertising Dubai. Our UAE-based team brings you precise targeting capabilities that put your message in front of the right eye.
+                       Your viewers have moved to streaming platforms. Meet them there with Dar Alafkar's strategic OTT Advertising solutions. We've seen the shift in Dubai's media consumption habits. Your potential customers now spend more time streaming their favourite shows and content. Your brand reaches viewers through their preferred streaming platforms with our OTT Advertising Dubai. Our UAE-based team brings you precise targeting capabilities that put your message in front of the right eye.
                     </p>
                     
 
                     <h4>Make Every View Count with Us</h4>
-                    <p>UAE streaming subscriptions grew exponentially in the past year. Smart businesses in Dubai are moving their ad spend to OTT platform advertising UAE. OTT platform advertising UAE connects you with viewers during their most engaged moments. At DataMySite, we don't just place ads - we create meaningful connections. Your OTT Advertising campaign reaches viewers during their most receptive moments.<br>
+                    <p>UAE streaming subscriptions grew exponentially in the past year. Smart businesses in Dubai are moving their ad spend to OTT platform advertising UAE. OTT platform advertising UAE connects you with viewers during their most engaged moments. At Dar Alafkar, we don't just place ads - we create meaningful connections. Your OTT Advertising campaign reaches viewers during their most receptive moments.<br>
                     We place your programmatic OTT campaigns Dubai across leading streaming platforms. Our advertising strategies focus on reaching your ideal customer profile.</p>
                     <h4>What Sets Our Approach Apart?</h4>
                     <p>The Dubai market demands sophistication. That's why we focus on premium placement for your programmatic OTT campaigns. Your OTT Advertising campaign reaches viewers during their most receptive moments. They're watching their preferred shows through streaming services.</p>

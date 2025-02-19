@@ -32,7 +32,7 @@
                 <br>
                 <div class="post-container">
                     
-                    <p>Brand visibility, together with credibility enhancement, along with targeted audience engagement, are all three traits that sponsorships can efficiently deliver. Datamysite provides sponsorship opportunities Dubai, which fulfil your brand's vision and strategic goals. Our team takes care of your brand visibility by connecting you to events as well as influencers and community projects to achieve maximum exposure.</p>
+                    <p>Brand visibility, together with credibility enhancement, along with targeted audience engagement, are all three traits that sponsorships can efficiently deliver. Dar Alafkar provides sponsorship opportunities Dubai, which fulfil your brand's vision and strategic goals. Our team takes care of your brand visibility by connecting you to events as well as influencers and community projects to achieve maximum exposure.</p>
 
                     <br>
                     <div class="row services gy-4">
@@ -84,11 +84,11 @@
 
                     </ul>
 
-                    <h4>Why Choose Datamysite for Sponsorships?</h4>
+                    <h4>Why Choose Dar Alafkar for Sponsorships?</h4>
                     <p>Our team finds the sponsorship possibilities that serve your business goals in the sponsorship opportunities Dubai sector. Sponsorship activities help businesses gain better visibility within their choice markets. The company designs individual strategies for every sponsorship plan to maximise its effectiveness. We work with the most respected event creators alongside influential people and prominent media venues.
                         <br><br>
                     Are you ready to explore sponsorship opportunities Dubai for your brand? <br>
-                    Contact us today! Call us at <a href="tel:971525287259">+971 525 287 259</a> or drop an email at <a href="mailto:contact@datamysite.com">contact@datamysite.com</a>.  </p>
+                    Contact us today! Call us at <a href="tel:971525287259">+971 525 287 259</a> or drop an email at <a href="mailto:contact@Dar Alafkar.com">contact@Dar Alafkar.com</a>.  </p>
 
 
 
@@ -114,7 +114,7 @@
                             <div class="card-header" id="faqHeading-2">
                                 <div class="mb-0">
                                     <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-2" data-aria-expanded="false" data-aria-controls="faqCollapse-2">
-                                        <span class="badge">2</span>What type of events does Datamysite partner with?
+                                        <span class="badge">2</span>What type of events does Dar Alafkar partner with?
                                     </h5>
                                 </div>
                             </div>

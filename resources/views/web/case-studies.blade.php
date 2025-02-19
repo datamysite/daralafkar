@@ -14,8 +14,8 @@
 
               <div class="col-lg-9" data-aos="fade-up" data-aos-delay="100">
                 <div class="post-container case-studies-container">
-                    <h4>Why Does DataMySite Share Case Studies?</h4>
-                    <p>At DataMySite, we believe in transparency and trust. Sharing case studies allows us to demonstrate the tangible impact of our marketing and advertising solutions. They provide a clear, evidence-based view of how we address specific business challenges and deliver measurable results.
+                    <h4>Why Does Dar Alafkar Share Case Studies?</h4>
+                    <p>At Dar Alafkar, we believe in transparency and trust. Sharing case studies allows us to demonstrate the tangible impact of our marketing and advertising solutions. They provide a clear, evidence-based view of how we address specific business challenges and deliver measurable results.
                         <br>
                     By showcasing real-world success stories, we aim to:</p>
                     <ul>
@@ -48,9 +48,9 @@
                         </div>
                     </div>
                     <h4>Transforming Brands Through Comprehensive Marketing Solutions</h4>
-                    <p>At DataMySite, we offer a full suite of marketing and advertising services designed to drive measurable results. From digital advertising to outdoor campaigns, public relations to influencer marketing, we help brands stand out in a competitive market. Below, we highlight the before-and-after transformations our clients experienced through our tailored marketing solutions in Dubai, UAE.</p>
-                    <h4>Why Choose DataMySite?</h4>
-                    <p>Through our comprehensive marketing and advertising services, we help businesses in Dubai achieve remarkable results. Whether you're looking to enhance your online presence with digital advertising, build brand recognition through outdoor ads, or generate qualified leads through event marketing, DataMySite has the expertise to drive success.</p>
+                    <p>At Dar Alafkar, we offer a full suite of marketing and advertising services designed to drive measurable results. From digital advertising to outdoor campaigns, public relations to influencer marketing, we help brands stand out in a competitive market. Below, we highlight the before-and-after transformations our clients experienced through our tailored marketing solutions in Dubai, UAE.</p>
+                    <h4>Why Choose Dar Alafkar?</h4>
+                    <p>Through our comprehensive marketing and advertising services, we help businesses in Dubai achieve remarkable results. Whether you're looking to enhance your online presence with digital advertising, build brand recognition through outdoor ads, or generate qualified leads through event marketing, Dar Alafkar has the expertise to drive success.</p>
                 </div>
             </div>  
 

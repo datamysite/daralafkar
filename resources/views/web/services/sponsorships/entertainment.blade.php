@@ -33,7 +33,7 @@
                 <br>
                 <div class="post-container">
                     
-                    <p>Entertainment sponsorships Dubai help businesses achieve proper reach and growth. It is a process in which a business partners with an entertainment personality or platform or even an event. This includes celebrity endorsements to concerts along with festivals and film premiers. Entertainment sponsorships Dubai are a great way to build meaningful connections with the target audience and improve brand awareness. Datamysite offers all of this and more. We provide a range of entertainment sponsorship services suited to your needs.</p>
+                    <p>Entertainment sponsorships Dubai help businesses achieve proper reach and growth. It is a process in which a business partners with an entertainment personality or platform or even an event. This includes celebrity endorsements to concerts along with festivals and film premiers. Entertainment sponsorships Dubai are a great way to build meaningful connections with the target audience and improve brand awareness. Dar Alafkar offers all of this and more. We provide a range of entertainment sponsorship services suited to your needs.</p>
                     <h4>Why Choose Entertainment Sponsorships Dubai?</h4>
                     <p>When you choose entertainment sponsorships Dubai, you get: </p>
                     <ul>
@@ -54,7 +54,7 @@
                     </ul>
 
                     <h4>Our Event Sponsorship Services GCC</h4>
-                    <p>At datamysite, we offer a range of event sponsorship services GCC to help brands connect with the right entertainment platforms. Our services include:</p>
+                    <p>At Dar Alafkar, we offer a range of event sponsorship services GCC to help brands connect with the right entertainment platforms. Our services include:</p>
 
                     <ul>
                         <li><strong>Concert Sponsorships</strong>: This is when you support a live music event. This helps you to engage with a wider audience base, including both local and international individuals.</li>
@@ -84,14 +84,14 @@
 
                     </ul>
 
-                    <h4>Why Choose Datamysite for Sponsorship for Entertainment Events UAE?</h4>
-                    <p>At datamysite, we have a team of skilled experts in the field of entertainment sponsorships Dubai. Our services guarantee the best growth and reach for your business. Here’s how we stand out:</p>
+                    <h4>Why Choose Dar Alafkar for Sponsorship for Entertainment Events UAE?</h4>
+                    <p>At Dar Alafkar, we have a team of skilled experts in the field of entertainment sponsorships Dubai. Our services guarantee the best growth and reach for your business. Here’s how we stand out:</p>
 
                     <p>
                         <strong>Expert Media Buying</strong>: We optimise ad placements using data-driven insights.<br>
                         <strong>Extensive PR Network</strong>: We collaborate with top PR media houses for high-impact brand exposure.<br>
                         <strong>Innovative Marketing Solutions</strong>: We create tailored sponsorship strategies that drive results.<br><br>
-                        Get in touch with <a href="{{route('contact')}}">datamysite</a> today for the best entertainment sponsorship solutions.
+                        Get in touch with <a href="{{route('contact')}}">Dar Alafkar</a> today for the best entertainment sponsorship solutions.
 
                     </p>
 
@@ -126,7 +126,7 @@
                             </div>
                             <div id="faqCollapse-2" class="collapse" aria-labelledby="faqHeading-2" data-parent="#accordion">
                                 <div class="card-body">
-                                    <p>At datamysite, we work with concerts, festivals, film premieres, TV shows, and sports events.</p>
+                                    <p>At Dar Alafkar, we work with concerts, festivals, film premieres, TV shows, and sports events.</p>
                                 </div>
                             </div>
                         </div>
@@ -134,13 +134,13 @@
                             <div class="card-header" id="faqHeading-3">
                                 <div class="mb-0">
                                     <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-3" data-aria-expanded="false" data-aria-controls="faqCollapse-3">
-                                        <span class="badge">3</span>Can datamysite negotiate sponsorship deals for my brand?
+                                        <span class="badge">3</span>Can Dar Alafkar negotiate sponsorship deals for my brand?
                                     </h5>
                                 </div>
                             </div>
                             <div id="faqCollapse-3" class="collapse" aria-labelledby="faqHeading-3" data-parent="#accordion">
                                 <div class="card-body">
-                                    <p>Yes. At datamysite, we take care of all negotiations to secure the best sponsorship terms for your business. </p>
+                                    <p>Yes. At Dar Alafkar, we take care of all negotiations to secure the best sponsorship terms for your business. </p>
                                 </div>
                             </div>
                         </div>
@@ -148,7 +148,7 @@
                             <div class="card-header" id="faqHeading-4">
                                 <div class="mb-0">
                                     <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-4" data-aria-expanded="false" data-aria-controls="faqCollapse-4">
-                                        <span class="badge">4</span>Does datamysite provide promotional support during events?
+                                        <span class="badge">4</span>Does Dar Alafkar provide promotional support during events?
                                     </h5>
                                 </div>
                             </div>

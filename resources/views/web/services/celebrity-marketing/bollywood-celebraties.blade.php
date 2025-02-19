@@ -35,7 +35,7 @@
                     
                     <h4>Transform Your Brand's Image with Bollywood Celebrities </h4>
                     <p>The influence of Bollywood celebrities is far more significant than traditional entertainment. Their magnetic appeal creates immediate consumer trust and builds lasting connections with your target audience. Your brand deserves recognition from the brightest stars in entertainment. Through Bollywood celebrity endorsements Dubai, your business gains instant prestige and recognition across the UAE market. <br>
-                    Meet us at DataMySite – the team that offers the right solutions to improve your brand position. Our professional team can help you partner with Bollywood celebrities to secure real business results and improve your business identity.</p>
+                    Meet us at Dar Alafkar – the team that offers the right solutions to improve your brand position. Our professional team can help you partner with Bollywood celebrities to secure real business results and improve your business identity.</p>
                     <h4>Why UAE Businesses Trust Bollywood Celebrities?</h4>
                     <p>The UAE market responds exceptionally well to Bollywood stars brand promotions UAE. Research shows that brands featuring Bollywood stars see significant increases in consumer engagement and sales conversion rates.<br>
                     As a decision-maker, you recognise the value of strategic marketing investments. Working with a professional celebrity endorsement agency Dubai gives you access to stars who align perfectly with your brand values and target audience.</p>

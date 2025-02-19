@@ -436,13 +436,13 @@
 }
 
 .whatsapp-chat img {
-    width: 80px;
+    width: 60px;
     transition: .3s ease-in-out all;
 }
 
 
 .whatsapp-chat:hover img {
-    width: 85px;
+    width: 70px;
     filter: grayscale(30%);
 }
 

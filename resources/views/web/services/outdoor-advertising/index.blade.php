@@ -25,14 +25,14 @@
             <div class="row gy-4 first-row">
 
               <div class="col-lg-9" data-aos="fade-up" data-aos-delay="100">
-                <h2 class="post-title">Outdoor Advertising in Dubai with DataMySite</h2>
+                <h2 class="post-title">Outdoor Advertising in Dubai with Dar Alafkar</h2>
                 <div class="detail-post-image">
                     <img src="{{URL::to('public/assets/img/service/'.$service->slug.'.png')}}" alt="{{$service->img_alt}}">
                 </div>
                 <br>
                 <div class="post-container">
                     <h4>Elevate Your Brand's Visibility and Stand Out with Impactful Outdoor Advertising</h4>
-                    <p>Your message belongs on Dubai's stunning advertising canvas. The strategic placement of outdoor advertising Dubai can benefit your brand. Premium billboard positions across major business districts give your brand consistent recognition. Innovative outdoor advertising solutions from our team at DataMySite can take your business to the next level.</p>
+                    <p>Your message belongs on Dubai's stunning advertising canvas. The strategic placement of outdoor advertising Dubai can benefit your brand. Premium billboard positions across major business districts give your brand consistent recognition. Innovative outdoor advertising solutions from our team at Dar Alafkar can take your business to the next level.</p>
 
                     <h4>Why Choose Outdoor Advertising in Dubai?</h4>
                     <p>The strategic selection of outdoor advertising services UAE transforms your marketing investment into measurable results. From striking digital displays to premium static billboards, your brand gains recognition across key decision-making zones.<br>
@@ -70,15 +70,15 @@
                     <p>Dubai's market extends beyond city limits. Best outdoor advertising solutions GCC ensure your brand reaches audiences across the Gulf region. Expanding your message beyond Dubai enhances credibility and market influence.</p>
                     <h4>Outdoor Advertising that Delivers ROI</h4>
                     <p>Every marketing investment must yield results. Outdoor advertising services UAE generate brand recall, customer engagement, and increased sales. Whether launching a new product or reinforcing brand positioning, well-placed ads drive measurable growth.</p>
-                    <h4>Partner with DataMySite for Unmatched Visibility</h4>
-                    <p>With expertise in outdoor media campaigns Dubai, DataMySite helps businesses make an impact. From location selection to campaign execution, our approach maximises visibility and engagement.</p>
+                    <h4>Partner with Dar Alafkar for Unmatched Visibility</h4>
+                    <p>With expertise in outdoor media campaigns Dubai, Dar Alafkar helps businesses make an impact. From location selection to campaign execution, our approach maximises visibility and engagement.</p>
                     <h4>Expert Location Selection for Maximum Reach</h4>
-                    <p>Choosing the right location is key to advertising success. DataMySite identifies prime areas in Dubai with high foot traffic and business activity. It ensures your brand captures the attention of customers to improve conversions.</p>
+                    <p>Choosing the right location is key to advertising success. Dar Alafkar identifies prime areas in Dubai with high foot traffic and business activity. It ensures your brand captures the attention of customers to improve conversions.</p>
                     <h4>Comprehensive Campaign Execution from Start to Finish</h4>
-                    <p>A well-planned campaign delivers results. DataMySite manages every aspect, from concept creation to final implementation. Our team will check the design and placement. We also monitor the performance to ensure your brand gets the exposure it deserves with a return on investment.</p>
+                    <p>A well-planned campaign delivers results. Dar Alafkar manages every aspect, from concept creation to final implementation. Our team will check the design and placement. We also monitor the performance to ensure your brand gets the exposure it deserves with a return on investment.</p>
                     <h4>Data-Driven Insights for Smarter Advertising</h4>
-                    <p>Success comes from informed decisions. DataMySite uses advanced analytics to monitor engagement and audience interaction. These insights allow us to refine strategies, optimise the placement, and maximise the effectiveness of your outdoor advertising efforts.<br>
-                    Your brand deserves recognition. Invest in outdoor advertising Dubai and reach your audience where they live and work. Contact DataMySite to secure your premium advertising space. Make your brand impossible to ignore.</p>
+                    <p>Success comes from informed decisions. Dar Alafkar uses advanced analytics to monitor engagement and audience interaction. These insights allow us to refine strategies, optimise the placement, and maximise the effectiveness of your outdoor advertising efforts.<br>
+                    Your brand deserves recognition. Invest in outdoor advertising Dubai and reach your audience where they live and work. Contact Dar Alafkar to secure your premium advertising space. Make your brand impossible to ignore.</p>
 
 
                     <br><br>

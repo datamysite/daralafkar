@@ -14,7 +14,7 @@
 
 	          <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100">
 	          	<p>
-                    Founded in 2021 and based in Dubai, UAE, <strong>Datamysite</strong> is a premier marketing agency specializing in <strong>brand storytelling, experiential marketing</strong>, and <strong>strategic brand placement</strong>. We cut through the clutter of advertising to bring brands to life, ensuring they stand out in a competitive landscape.
+                    Founded in 2021 and based in Dubai, UAE, <strong>Dar Alafkar</strong> is a premier marketing agency specializing in <strong>brand storytelling, experiential marketing</strong>, and <strong>strategic brand placement</strong>. We cut through the clutter of advertising to bring brands to life, ensuring they stand out in a competitive landscape.
                     <br><br>
                     Our expertise spans across:<br>
                     <strong>Celebrity Management & Influencers</strong> – Connecting brands with the right celebrities and influencers to amplify reach, enhance credibility, and drive engagement.

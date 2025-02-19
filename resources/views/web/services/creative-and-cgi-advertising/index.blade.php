@@ -32,7 +32,7 @@
                 <br>
                 <div class="post-container">
                     
-                    <p>Datamysite uses Creative and CGI Advertising Dubai to convert static marketing into innovative interactive encounters. Our team combines advanced CGI technology with creative specialisation to create breathtaking ads which retain audience attention while building brand visibility. Datamysite turns hyper-realistic 3D animations and interactive AR and VR ads into innovative solutions which leave your brand imprinted in audiences' minds.</p>
+                    <p>Dar Alafkar uses Creative and CGI Advertising Dubai to convert static marketing into innovative interactive encounters. Our team combines advanced CGI technology with creative specialisation to create breathtaking ads which retain audience attention while building brand visibility. Dar Alafkar turns hyper-realistic 3D animations and interactive AR and VR ads into innovative solutions which leave your brand imprinted in audiences' minds.</p>
 
                     <br>
                     <div class="row services gy-4">
@@ -50,7 +50,7 @@
                     </div>
 
                     <h4>Why Choose Creative and CGI Advertising Dubai?</h4>
-                    <p>Datamysite maintains its position as a reliable Creative advertising services Dubai provider that createscustomised impactful advertising campaigns for Dubai-based brands. Strategic effectiveness meets visual excellence through our approach, which applies creative design to technological capabilities to produce compelling advertisements.</p>
+                    <p>Dar Alafkar maintains its position as a reliable Creative advertising services Dubai provider that createscustomised impactful advertising campaigns for Dubai-based brands. Strategic effectiveness meets visual excellence through our approach, which applies creative design to technological capabilities to produce compelling advertisements.</p>
                     <ul>
                         <li>Visual excellence in our advertisements emerges from using advanced CGI and animated technology.</li>
                         <li>Our organisation boasts designers and animators who specialise in their artistic disciplines.</li>
@@ -88,8 +88,8 @@
                         <strong>Technology</strong>: The tech industry features product characteristics through visual effects and engaging animations to capture viewer attention.
                     </p>
 
-                    <h4>How Datamysite Leads in Creative and CGI Advertising Dubai</h4>
-                    <p>The innovative company Datamysite emerged as a digital and out-of-home (OOH) media leader when it launched in Dubai in 2021. Datamysite specialises in Creative digital advertising UAE to deliver advanced marketing solutions which meet specific business requirements. Our company assists brands by using digital media buying approaches to achieve optimal placements, which ensures market success.</p>
+                    <h4>How Dar Alafkar Leads in Creative and CGI Advertising Dubai</h4>
+                    <p>The innovative company Dar Alafkar emerged as a digital and out-of-home (OOH) media leader when it launched in Dubai in 2021. Dar Alafkar specialises in Creative digital advertising UAE to deliver advanced marketing solutions which meet specific business requirements. Our company assists brands by using digital media buying approaches to achieve optimal placements, which ensures market success.</p>
                     <ul>
                         <li>We employ the latest CGI and animation tools to create visually stunning ads.</li>
                         <li>Our team comprises designers, and animators who are experts in their craft.</li>
@@ -98,7 +98,7 @@
 
                     </ul>
                     <br>
-                    <p>Contact Datamysite for Creative and CGI Advertising Dubai services if you want to revolutionise your advertising techniques. Partner with Datamysite for top-tier "Creative and CGI Advertising Dubai" solutions.</p>
+                    <p>Contact Dar Alafkar for Creative and CGI Advertising Dubai services if you want to revolutionise your advertising techniques. Partner with Dar Alafkar for top-tier "Creative and CGI Advertising Dubai" solutions.</p>
 
 
 

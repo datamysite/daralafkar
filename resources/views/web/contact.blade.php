@@ -32,7 +32,7 @@
 
           </div>
 
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14464.219277779735!2d55.16920962642821!3d24.99825314644458!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f7347c3a1a1d1%3A0xad7a49fd99d3061!2sDataMySite!5e0!3m2!1sen!2sae!4v1736759203303!5m2!1sen!2sae" width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14464.219277779735!2d55.16920962642821!3d24.99825314644458!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f7347c3a1a1d1%3A0xad7a49fd99d3061!2sDataMySite!5e0!3m2!1sen!2sae!4v1736759203303!5m2!1sen!2sae" width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
 
         </section>
 

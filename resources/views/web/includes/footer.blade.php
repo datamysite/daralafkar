@@ -65,11 +65,8 @@
             <a href="{{URL::to('/')}}" class="logo d-flex align-items-center" aria-label="Home">
               <img src="{{URL::to('/public/dar-logo-white.png')}}" alt="Footer Logo">
             </a>
-            <p>Smarter Marketing, Better Outcomes.<br>Boost your brand’s visibility, enhance campaign performance</p>
-            <div class="social-links d-flex mt-2">
-              <a href="https://www.linkedin.com/company/datamysite/" aria-label="Linkedin"><i class="bi bi-linkedin"></i></a>
-              <a href="https://www.instagram.com/datamysite/" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
-            </div>
+            <p>Smarter Marketing, Better Outcomes.<br><br>Boost your brand’s visibility, enhance campaign performance</p>
+            
           </div>
 
           <div class="col-lg-4 col-md-12 footer-contact text-center text-md-start" style="padding: 30px 20px;">

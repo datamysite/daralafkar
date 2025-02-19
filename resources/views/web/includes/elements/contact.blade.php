@@ -10,7 +10,7 @@
         <i class="bi bi-envelope-at" style="color: #cbcbcb;"></i>
         <div class="about-contact-info">
             <p class="working-title">Email</p>
-            <p><a href="mailto:contact@datamysite.com">contact@datamysite.com</a></p>
+            <p><a href="mailto:sales@daralafkarmarketing.ae">sales@daralafkarmarketing.ae</a></p>
         </div>
     </div>
     <div class=" col-lg-6">

@@ -55,7 +55,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <img src="https://datamysite.com/public/dar-logo-theme.png" alt="Dar Alafkar Logo" height="60px">
+            <img src="https://daralafkarmarketing.ae/public/dar-logo-theme.png" alt="Dar Alafkar Logo" height="60px">
             <hr>
             <div class="header-title">New Enquiry Received!</div>
         </div>

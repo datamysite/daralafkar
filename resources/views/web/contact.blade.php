@@ -18,7 +18,7 @@
                     <h3 class="text-bold">Let's Get In Touch</h3>
                 <div class="row">
                     <div class="col-lg-7">
-                        <p>We’d love to hear from you! Whether you have a question, need a quote, or want to discuss how we can help your business, feel free to reach out. Contact us today and let’s start a conversation.</p>
+                        <p>We’d love to connect with you! Whether you have a question, need a quote, or want to explore how we can support your business, reach out to us today and let’s get started.</p>
                         <div class="hide-mobile" style="height: 50px;"></div>
                         @include('web.includes.elements.contact')
                     </div>

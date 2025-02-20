@@ -14,17 +14,7 @@
           <li class="dropdown hide-mobile"><a href="{{route('services')}}" class="{{!empty($nav) && $nav == 'services' ? 'active' : ''}}"><span>Services</span> <font style="font-size: 9px;padding: 1px 0px 0px 3px;">▼</font></a>
             <ul>
               @foreach($header_services as $val)
-                @if(count($val->subServices) == 0)
                   <li><a href="{{URL::to('/'.$val->slug)}}"><span><i class="{{$val->icon}}"></i> {{$val->name}}</span></a></li>
-                @else
-                  <li class="dropdown"><a href="{{URL::to('/'.$val->slug)}}"><span><i class="{{$val->icon}}"></i> {{$val->name}}</span> <font style="margin-right: -5px;font-size: 8px;padding: 1px 0px 0px 3px;">▶</font></a>
-                    <ul>
-                      @foreach($val->subServices as $sub)
-                        <li><a href="{{URL::to('/'.$val->slug.'/'.$sub->slug)}}"><span><i class="{{$sub->icon}}"></i> {{$sub->name}}</span></a></li>
-                      @endforeach
-                    </ul>
-                  </li>
-                @endif
               @endforeach
             </ul>
           </li>

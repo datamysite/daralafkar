@@ -32,17 +32,14 @@
               <!-- <li><a href="{{route('blogs')}}">Blogs</a></li> -->
               <li><a href="{{route('services')}}">Services</a></li>
               <li><a href="{{route('about')}}">About Us</a></li>
-              <li><a href="{{route('contact')}}">Contact Us</a></li>
             </ul>
           </div>
 
           <div class="col-lg-2 col-6 footer-links">
             <h4>Support</h4>
             <ul>
+              <li><a href="{{route('contact')}}">Contact Us</a></li>
               <li><a href="{{route('faq')}}">FAQ</a></li>
-              <!-- <li><a href="{{route('caseStudies')}}">Case Studies</a></li>
- -->              <li><a href="{{route('privacy')}}">Privacy Policy</a></li>
-              <li><a href="{{route('terms')}}">Terms & Conditions</a></li>
             </ul>
           </div>
 
@@ -50,7 +47,7 @@
             <a href="{{URL::to('/')}}" class="logo d-flex align-items-center" aria-label="Home">
               <img src="{{URL::to('/public/dar-logo-white.png')}}" alt="Footer Logo">
             </a>
-            <p>Smarter Marketing, Better Outcomes.<br><br>Boost your brand’s visibility, enhance campaign performance</p>
+            <p>Intelligent Marketing, Exceptional Results.<br><br>Increase Brand Exposure, Optimize Campaign Success</p>
             
           </div>
 

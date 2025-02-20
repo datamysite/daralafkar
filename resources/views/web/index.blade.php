@@ -21,9 +21,9 @@
 	          <div class="col-xl-5 hero-title-sec">
 	          	<div class="hero-spacing"></div>
 	          	<h6 class="text-theme text-bold">Dar Alafkar</h6>
-	            <h1>The New Level For Advertising</h1>
+	            <h1>The Future of Advertising</h1>
 	            <blockquote>
-	              <p>People do not buy goods and services. <br>They buy relations, stories, and magic.</p>
+	              <p>People don’t just purchase products or services; <br>they invest in connections, narratives, and experiences that feel magical.</p>
 	            </blockquote>
 
 	          </div>
@@ -53,7 +53,7 @@
 
 	          	<img src="{{URL::to('/public/assets/img/service/1.png')}}" alt="Taxi advertising dubai uae">
 	          	<p class="business-title">TAXI</p>
-	          	<p>Mobile billboard that displays your brand to on-the-move audience 24/7.</p>
+	          	<p>A mobile billboard that showcases your brand to a constantly moving audience, day and night.</p>
 	           
 	          </div><!-- End Service Item -->
 
@@ -61,7 +61,7 @@
 
 	          	<img src="{{URL::to('/public/assets/img/service/2.png')}}" alt="Radio advertising dubai uae">
 	          	<p class="business-title">RADIO</p>
-	          	<p>Connect with audiences across the Emirates and reach them during their daily routines.</p>
+	          	<p>Engage with audiences throughout the Emirates and connect with them in their everyday moments.</p>
 	           
 	          </div><!-- End Service Item -->
 
@@ -69,7 +69,7 @@
 
 	          	<img src="{{URL::to('/public/assets/img/service/3.png')}}" alt="Transit media advertising dubai uae">
 	          	<p class="business-title">Transit Media</p>
-	          	<p>From airport advertising to in-flight promotions, we've got you covered.</p>
+	          	<p>From airport displays to in-flight promotions, we handle it all.</p>
 	           
 	          </div><!-- End Service Item -->
 
@@ -125,7 +125,7 @@
 
 	          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
 	            <span class="text-theme">WHAT WE DO</span>
-	            <h2>Marketing Solutions for Your Business's Growth</h2>
+	            <h2>Strategic Marketing Solutions to Elevate Your Business</h2>
 	          </div><!-- End Card Item -->
 
 	        </div>
@@ -185,7 +185,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2 class="text-theme">Our Services</h2>
-        <p class="service-p">Elevate Your Brand Visibility and Boost Sales</p>
+        <p class="service-p">Enhance Your Brand Presence and Drive Sales Growth</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -222,10 +222,10 @@
 	          	<div class="hero-spacing hide-mobile"></div>
 	            <div class="text-center">
 	              <p class="text-theme" style="text-transform: uppercase;">Schedule Your Appointment Today</p>
-	              <h3>Don't Miss Out on This Opportunity to <br>Elevate Your Advertising Game</h3>
+	              <h3>Seize This Chance to Take <br>Your Advertising to the Next Level!</h3>
 	              <br>
-	              <p><span class="text-theme">Smarter Marketing, Better Outcomes.</span>
-					<br>Boost your brand’s visibility, enhance campaign performance</p>
+	              <p><span class="text-theme">Intelligent Marketing, Exceptional Results.</span>
+					<br>Increase Brand Exposure, Optimize Campaign Success</p>
 	              <a class="cta-btn" href="{{route('contact')}}">Contact Us</a>
 	            </div>
 	          	<div class="hero-spacing hide-mobile"></div>

@@ -1,11 +1,11 @@
 User-agent: Googlebot
-Disallow: 
+Disallow: /
 User-agent: googlebot-image
-Disallow: 
+Disallow: /
 User-agent: googlebot-mobile
-Disallow: 
+Disallow: /
 User-agent: MSNBot
-Disallow: 
+Disallow: /
 User-agent: Slurp
 Disallow: /
 User-agent: Teoma
@@ -25,12 +25,12 @@ Disallow: /
 User-agent: yeti
 Disallow: /
 User-agent: yahoo-mmcrawler
-Disallow: 
+Disallow: /
 User-agent: psbot
 Disallow: /
 User-agent: yahoo-blogs/v3.9
-Disallow: 
+Disallow: /
 User-agent: *
-Disallow: 
-Sitemap: https://datamysite.com/sitemap.xml
-
+Disallow: /
+Disallow: /cgi-bin/
+Sitemap: https://daralafkarmarketing.ae/sitemap.xml

@@ -43,6 +43,44 @@
 
 	          <div class="col-lg-3 business-first" data-aos="fade-up" data-aos-delay="100">
 	            <div>
+	              <h5 class="text-theme">Dar Alafkar</h5>
+	              <h2 class="text-bold" style="font-size:40px">Our Products</h2>
+	            </div>
+	          </div>
+	          <!-- End Service Item -->
+
+	          <div class="col-lg-4 business-item business-item-2" data-aos="fade-up" data-aos-delay="200">
+	          	<a href="https://datamysite.com/">
+		          	<img src="https://datamysite.com/public/assets/img/logo.png" alt="Datamysite">
+		          </a>
+		          	<p><a href="https://datamysite.com/"><strong>Datamysite</strong></a> is a premier marketing agency specializing in brand storytelling, experiential marketing, and strategic brand placement.</p>
+	          </div><!-- End Service Item -->
+	          <div class="col-lg-1 business-item-and" data-aos="fade-up" data-aos-delay="200"><strong>&</strong></div>
+	          <div class="col-lg-4 business-item  business-item-2" data-aos="fade-up" data-aos-delay="200">
+	          	<a href="https://dealsandcouponsmena.ae">
+		          	<img src="https://dealsandcouponsmena.ae/public/web_assets/images/logo/dcm-logo-r.png" alt="DCM">
+		          </a>
+	          	<p><a href="https://dealsandcouponsmena.ae"><strong>DCM</strong></a> empowers businesses and delights customers through smart marketing, seamless shopping, and zero commission sales.</p>
+	           
+	          </div><!-- End Service Item -->
+
+	        </div>
+	    		<hr>
+	    		<br>
+	      </div>
+
+	    </section><!-- /Services Section -->
+
+
+	    <!-- Services Section -->
+	    <section class="home-business">
+
+	      <div class="container">
+
+	        <div class="row gy-4">
+
+	          <div class="col-lg-3 business-first" data-aos="fade-up" data-aos-delay="100">
+	            <div>
 	              <h5 class="text-theme">BEST SOLUTIONS</h5>
 	              <h2 class="text-bold" style="font-size:40px">For Your Business</h2>
 	            </div>

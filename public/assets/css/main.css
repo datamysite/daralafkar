@@ -1,3 +1,21 @@
+.business-item-2 {
+    display: flex;
+    align-items: center;
+    background-color: #f6fcfe;
+    box-shadow: 6px 8px 18px rgb(130 130 130 / 30%);
+}
+.business-item-2 img {
+    width: 110px !important;
+    height: auto !important;
+    margin-right: 20px;
+}
+.business-item-and {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    color: #e04a43;
+}
 /**
 * Template Name: Nova
 * Template URL: https://bootstrapmade.com/nova-bootstrap-business-template/

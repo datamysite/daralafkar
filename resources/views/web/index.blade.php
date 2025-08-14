@@ -35,7 +35,7 @@
 
 
 	    <!-- Services Section -->
-	    <section class="home-business">
+	    <!-- <section class="home-business">
 
 	      <div class="container">
 
@@ -47,14 +47,14 @@
 	              <h2 class="text-bold" style="font-size:40px">Our Products</h2>
 	            </div>
 	          </div>
-	          <!-- End Service Item -->
+	         
 
 	          <div class="col-lg-4 business-item business-item-2" data-aos="fade-up" data-aos-delay="200">
 	          	<a href="https://datamysite.com/">
 		          	<img src="https://datamysite.com/public/assets/img/logo.png" alt="Datamysite">
 		          </a>
 		          	<p><a href="https://datamysite.com/"><strong>Datamysite</strong></a> is a premier marketing agency specializing in brand storytelling, experiential marketing, and strategic brand placement.</p>
-	          </div><!-- End Service Item -->
+	          </div>
 	          <div class="col-lg-1 business-item-and" data-aos="fade-up" data-aos-delay="200"><strong>&</strong></div>
 	          <div class="col-lg-4 business-item  business-item-2" data-aos="fade-up" data-aos-delay="200">
 	          	<a href="https://dealsandcouponsmena.ae">
@@ -62,14 +62,15 @@
 		          </a>
 	          	<p><a href="https://dealsandcouponsmena.ae"><strong>DCM</strong></a> empowers businesses and delights customers through smart marketing, seamless shopping, and zero commission sales.</p>
 	           
-	          </div><!-- End Service Item -->
+	          </div>
 
 	        </div>
 	    		<hr>
 	    		<br>
 	      </div>
 
-	    </section><!-- /Services Section -->
+	    </section> -->
+	    <!-- /Services Section -->
 
 
 	    <!-- Services Section -->

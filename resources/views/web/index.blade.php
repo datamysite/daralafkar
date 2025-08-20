@@ -35,7 +35,7 @@
 
 
 	    <!-- Services Section -->
-	    <!-- <section class="home-business">
+	    <section class="home-business">
 
 	      <div class="container">
 
@@ -69,7 +69,7 @@
 	    		<br>
 	      </div>
 
-	    </section> -->
+	    </section>
 	    <!-- /Services Section -->
 
 
